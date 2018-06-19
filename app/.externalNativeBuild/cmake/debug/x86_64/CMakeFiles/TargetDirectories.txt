@@ -1,0 +1,3 @@
+C:/Users/lauri/AndroidStudioProjects/OSK_HideSuggestions/app/.externalNativeBuild/cmake/debug/x86_64/CMakeFiles/hideosksuggestions.dir
+C:/Users/lauri/AndroidStudioProjects/OSK_HideSuggestions/app/.externalNativeBuild/cmake/debug/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/lauri/AndroidStudioProjects/OSK_HideSuggestions/app/.externalNativeBuild/cmake/debug/x86_64/CMakeFiles/rebuild_cache.dir
